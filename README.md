@@ -4,7 +4,7 @@ A binary sentiment classifier that predicts whether a restaurant review is posit
 
 ## Dataset
 
-- **Source:** `Restaurant_Reviews.tsv` — 1,000 restaurant reviews
+- **Source:** `Restaurant_Reviews.tsv` - 1,000 restaurant reviews
 - **Columns:** `Review` (raw text), `Liked` (1 = positive, 0 = negative)
 - 4 duplicate rows removed, leaving 996 reviews
 - No missing values
